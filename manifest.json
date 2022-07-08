@@ -1,0 +1,19 @@
+{
+    "name": "yousef emami",
+    "short_name": "yousef",
+    "description": "my first try to create PWA",
+    "lang": "en-us",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#ff3f40",
+    "theme_color": "#0054d2",
+    "dir": "ltr",
+    "orientation": "portrait-primary",
+    "start_url": "/index.html",
+    "icons": [{
+        "src": "/images/smartphone.png",
+        "type": "image/png",
+        "size": "48 X 48"
+    }]
+
+}
